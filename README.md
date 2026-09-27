@@ -20,7 +20,7 @@ Follow these strict step-by-step instructions to get the entire engine active on
 ### 📦 1. Download the Correct Application (For New Users)
 If you do not have Termux active on your device yet, do **NOT** use the Google Play Store (as that version is abandoned, outdated, and causes background script crashes). Tap the official direct link below to instantly download the secure, modern version of the application:
 
-👉 [📥 Direct Download: Termux (Terminal emulator with packages) APK](https://github.com)
+👉 [📥 Direct Download: Termux (Terminal emulator with packages) APK](https://f-droid.org/en/packages/com.termux/)
 
 ### 📋 2. Copy the Automated Installer Code
 Once you have the app installed, click the native GitHub copy icon on the right side of the highlighted code box block below to copy your master setup command cleanly onto your mobile clipboard:
