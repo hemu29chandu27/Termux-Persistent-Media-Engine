@@ -17,8 +17,13 @@ If you are reading this on your computer, pull out your phone, open your mobile 
 
 Follow these strict step-by-step instructions to get the entire engine active on your phone natively without any coding knowledge:
 
-### 📦 1. Download the Correct Application (For New Users)
-If you do not have Termux active on your device yet, do **NOT** use the Google Play Store (as that version is abandoned, outdated, and causes background script crashes). Tap the official direct link below to instantly download the secure, modern version of the application:
+#### 1. Download the Correct App (For New Users)
+If you do not have Termux active on your device yet, do **NOT** use the Google Play Store (as that version is broken and causes background script crashes). 
+
+⚠️ **CRITICAL NAVIGATION WARNING:** 
+On this page, **do NOT tap the large, prominent blue "DOWNLOAD F-DROID" button**! That button will install a completely different app store client instead of Termux. 
+
+Instead, scroll all the way down this page past that button to the **"Versions"** section, look for **"Version 0.118.3"** (or the latest suggested release), and tap the blue text link that says **`Download APK`** to pull the app file directly!
 
 👉 [📥 Direct Download: Termux (Terminal emulator with packages) APK](https://f-droid.org/en/packages/com.termux/)
 
