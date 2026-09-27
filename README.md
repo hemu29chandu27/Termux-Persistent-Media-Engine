@@ -4,19 +4,32 @@ A commercial-grade, persistent media automation utility suite for Android built 
 
 ---
 
-## 🚀 3-Step Universal Onboarding Wizard
+## 💻 Path A: If You Are Currently Looking at a Laptop Screen
 
-Choose the guide path column that matches how you are currently viewing this documentation screen right now:
+### 1. Scan to Setup on Mobile
+If you are reading this on your computer, pull out your phone, open your mobile camera app, and scan the QR code below. It will instantly open this exact page layout directly on your phone screen so you can download the application and copy the installation scripts with one tap!
 
-| 💻 Browsing on a Laptop? | 📱 Browsing on a Mobile Phone? |
-| :--- | :--- |
-| **1. Scan to Transfer Setup Code:**<br>Open your phone's camera app or a QR scanning layout utility, and point it directly at the QR matrix block below to instantly extract the complete automated installation token string straight onto your mobile clipboard layout space.<br><br><img src="setup-qr.png" width="200" alt="Engine Installation QR Code Matrix"><br><br>**2. Open Terminal:**<br>Launch a fresh instance of your phone's **Termux** application directly from your home screen tray line.<br><br>**3. Paste and Deploy:**<br>Long-press inside your mobile terminal window space, paste the captured text parameters thread, and hit **Enter** to watch the deployment manager script configure your entire engine automatically! | **1. Download the Correct App (New Users):**<br>If you do not have Termux active on your device yet, do **NOT** use the Google Play Store (as that version is abandoned, outdated, and will cause background script crashes). Download the official, secure app package file directly from the open-source community repository mirror link here: <br><br>👉 [📥 Download Official Termux (F-Droid Package)](https://f-droid.org)<br><br>**2. Copy the Installation Token Line:**<br>Click and highlight the entire code line text block inside the section box row below to copy it completely:<br><br>```bash\ncurl -sL https://githubusercontent.com \| bash\n```<br><br>**3. Execute Automated Setup:**<br>Switch over to your Termux app screen workspace line, paste the command block, and press **Enter** to let the background installer script process everything hands-free! |
+[QR_CODE_IMAGE_WILL_BE_PLACED_HERE]
 
 ---
 
-## 💎 Advanced Architectural UX Highlights
+## 📱 Path B: Welcome Mobile Users! (Follow These Steps In Order)
 
-* 🛡️ **The Pinned State Engine (Swipe-Proof):** Restructuring the pipeline execution maps into a flat foreground process tracking model ensures that forcefully swiping the Termux app card layout out of your recent apps tray will **never** terminate or reset an active download task back to 0%.
-* 🛰️ **Deep-Linking Portal Portal:** Re-opening the Termux application manually from your device home screen automatically detects if a script background thread is busy. It completely bypasses empty terminal lines and deep-links your display screen straight inside the live ticking progress data stream.
-* ⚡ **The 56% Auto-Healing Bridge:** If your internet connection drops entirely or you toggle Airplane Mode ON midway through a download, the core engine freezes gracefully at that exact fragment point, locks data packets safely without battery saver menu pop-up warnings, and **automatically resumes up to 100% hands-free** the exact millisecond your signal returns!
-* 🛑 **Instant Logic Cancellation Shield:** Pressing `Ctrl + C` together on your screen keyboard triggers an immediate, 1-millisecond system cleanup path that kills background tasks, purges log cache records, and safely drops you back onto the normal home prompt row (`~ $`).
+Follow these strict step-by-step instructions to get the entire engine active on your phone natively without any coding knowledge:
+
+### 📦 1. Download the Correct Application (For New Users)
+If you do not have Termux active on your device yet, do **NOT** use the Google Play Store (as that version is abandoned, outdated, and causes background script crashes). Tap the official direct link below to instantly download the secure, modern version of the application:
+
+👉 [📥 Direct Download: Termux (Terminal emulator with packages) APK](https://github.com)
+
+### 📋 2. Copy the Automated Installer Code
+Once you have the app installed, click the native GitHub copy icon on the right side of the highlighted code box block below to copy your master setup command cleanly onto your mobile clipboard:
+
+```bash
+curl -sL https://gist.githubusercontent.com/hemu29chandu27/d362167a19633aa8959b0aa6b5ede649/raw/326d4f686941999da5a4fbc881f7a4fc21669e38/install.sh | bash
+```
+
+### 🏎️ 3. Paste and Execute inside Termux
+Launch your newly installed **Termux (Terminal emulator with packages)** app from your phone's home screen. Long-press on the blank terminal line, tap **Paste**, and press **Enter** on your keyboard layout. 
+
+The installer script will clear your screen, automatically set up your directory path nodes, and display a green success banner when your system is fully live!
