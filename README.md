@@ -35,6 +35,10 @@ curl -sL https://gist.githubusercontent.com/hemu29chandu27/d362167a19633aa8959b0
 ```
 
 ### 🏎️ 3. Paste and Execute inside Termux
-Launch your newly installed **Termux (Terminal emulator with packages)** app from your phone's home screen. Long-press on the blank terminal line, tap **Paste**, and press **Enter** on your keyboard layout. 
+Launch your newly installed **Termux (Terminal emulator with packages)** app from your phone's home screen. Long-press on the blank terminal line, tap **Paste**, and press **Enter** on your keyboard layout.
+💡 **Crucial Step for Sharing Content:** 
+As soon as the setup wizard finishes, your phone will automatically open the Termux App Info settings window. You **must** scroll down and toggle **`Display over other apps`** to **ALLOW**. 
+
+This permission is the core link bridge—without it, Android will block Termux from catching media links and raw video files shared directly from external apps like WhatsApp, Instagram, or YouTube!
 
 The installer script will clear your screen, automatically set up your directory path nodes, and display a green success banner when your system is fully live!
