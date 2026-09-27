@@ -9,7 +9,7 @@ A commercial-grade, persistent media automation utility suite for Android built 
 ### 1. Scan to Setup on Mobile
 If you are reading this on your computer, pull out your phone, open your mobile camera app, and scan the QR code below. It will instantly open this exact page layout directly on your phone screen so you can download the application and copy the installation scripts with one tap!
 
-[QR_CODE_IMAGE_WILL_BE_PLACED_HERE]
+<img src="setup-qr.png" width="220" alt="Engine Installation QR Code Matrix">
 
 ---
 
